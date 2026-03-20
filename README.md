@@ -16,9 +16,9 @@ Many people love vintage fashion but face challenges:
 This problem is common among fashion enthusiasts and collectors. I chose this topic because I am passionate about vintage fashion and wanted to create a tool that helps people explore and discover unique items easily.
 
 ## How is it used?
-20252177-man-6475806.jpg
-nipunharitash-oxford-3453489.jpg
-tiemcuala12-woman-9488137.jpg
+<img src="20252177-man-6475806.jpg" width="200">
+<img src="nipunharitash-oxford-3453489.jpg" width="200">
+<img src="tiemcuala12-woman-9488137.jpg" width="200">
 Users upload a photo of a vintage item and can specify what they are looking for. The AI then:  
 * analyzes the image  
 * identifies the likely era, for example the 70s, 80s, or 90s  
